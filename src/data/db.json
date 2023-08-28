@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 10,
+      "name": "munna",
+      "role": "admin",
+      "email": "munna@gmail.com",
+      "phone": "1234567"
+    },
+    {
+      "name": "munna",
+      "email": "munna@gmail.com",
+      "phone": "12345",
+      "role": "staff",
+      "id": 11
+    },
+    {
+      "name": "aaa",
+      "email": "aaa2GMAIM",
+      "phone": "22222",
+      "role": "staff",
+      "id": 12
+    }
+  ]
+}
